@@ -9,3 +9,5 @@ A simple but powerful non-rigid registration technique
 BSpline is been used for this. There are number of parameters that can be
 used to make the variation of the registration to make new data which is
 completely different from Moving and Fixed CT used for registration.
+
+![Result](https://github.com/fitushar/Registration-as-Data-Augumentation-for-CT--DATA/blob/master/result.PNG)
